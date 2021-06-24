@@ -30,7 +30,7 @@ public class JhipsterSampleApplicationApp {
     public JhipsterSampleApplicationApp(Environment env) {
         this.env = env;
     }
-
+    // QUesto è il codice di giancarlo
     /**
      * Initializes jhipsterSampleApplication.
      * <p>
